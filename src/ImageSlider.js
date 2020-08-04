@@ -1,4 +1,4 @@
-class ImageSlider extends React.Component{
+class ImageSlider extends Component{
   render(){
     return ""
   }
